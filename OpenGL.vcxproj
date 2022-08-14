@@ -149,6 +149,7 @@
     <ClCompile Include="lecture3.cpp" />
     <ClCompile Include="lecture_1.cpp" />
     <ClCompile Include="lecture_2.cpp" />
+    <ClCompile Include="lecture_transformation.cpp" />
     <ClCompile Include="Shader.cpp" />
     <ClCompile Include="std_boot.cpp" />
     <ClCompile Include="texture_lecture.cpp" />
